@@ -21,6 +21,4 @@ Let's connect ? 🤝
  <p align="left">
     <a href="https://www.linkedin.com/in/jose-henrique-garcia/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
  </p>
-
 <br/>
--->
