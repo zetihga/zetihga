@@ -4,7 +4,6 @@ I'm José Henrique, Systems Analyst
 ### Languages & Tools 🛠
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![SAP](https://img.shields.io/badge/-SAP-05122A?style=flat&logo=sap)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Datagrip](https://img.shields.io/badge/-Datagrip-05122A?style=flat&logo=jetbrains)&nbsp;
